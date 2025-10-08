@@ -1,5 +1,5 @@
 # Learning Stuff From ML Zoomcamp
-- Ref: [DataTalks Club - ML Zoomxcamp](https://github.com/DataTalksClub/machine-learning-zoomcamp)
+- Ref: [DataTalks Club - ML Zoomcamp](https://github.com/DataTalksClub/machine-learning-zoomcamp)
 - Homework, and other pieces
 
 ## Install Requirements
